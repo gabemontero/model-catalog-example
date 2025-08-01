@@ -6,7 +6,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: developer-model-service-test
+  name: developer-model-service-test-ggm2
   annotations:
     backstage.io/techdocs-ref: url:http://localhost:9090/modelcard
   description: 'A vLLM and 3scale-based model service providing models for developer tools. A single model (IBM Granite Code 8b) is deployed on it through Red Hat OpenShift AI, and accessed over a secured API.'
